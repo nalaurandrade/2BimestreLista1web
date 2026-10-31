@@ -1,0 +1,6 @@
+@_2BimestreLista1web_HostAddress = http://localhost:5176
+
+GET {{_2BimestreLista1web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
